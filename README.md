@@ -14,3 +14,5 @@ I'm Saveliy Morozov, an Android Developer.
   **Tech Stack:** MVVM, Retrofit2, Room, Coroutine + Flow, Jetpack Navigation, Koin.
 - [EmployMe](https://github.com/Kotzimaru/EmployMe) — a job search app I contributed to developing.  
   **Tech Stack:** MVVM, Dagger2, Room, Retrofit2, Coroutine + Flow.
+- [ClimaVista](https://github.com/Morozov0208Saveliy/ClimaVista) — a weather forecasting app with real-time updates and an intuitive user interface.  
+  **Tech Stack:** MVVM, Retrofit2, Room, Coroutine + Flow, OpenWeather API
