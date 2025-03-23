@@ -6,7 +6,7 @@ I'm Saveliy Morozov, an Android Developer.
 - **Programming with Kotlin**
 - **SOLID, MVVM, MVP**
 - Experience with networking and client-server interactions
-- Tools: Android Studio, GitHub, Figma,
+- Tools: Android Studio, GitHub, Figma
 - Creating adaptive app interfaces and working with animations
 
 ### My Projects:
