@@ -1,10 +1,10 @@
-# Hi there! 👋
+# Hi! 👋
 
 I'm Saveliy Morozov, an Android Developer.
 
 ### My Tech Stack:
 - **Programming with Kotlin**
-- **SOLID, MVVM, MVP, MVI**
+- **SOLID, MVVM, MVP**
 - Experience with networking and client-server interactions
 - Tools: Android Studio, GitHub, Figma,
 - Creating adaptive app interfaces and working with animations
